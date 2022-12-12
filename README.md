@@ -1,16 +1,14 @@
-### Hi there 👋
+### About me
 
-<!--
-**AtlantiaKing/AtlantiaKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I'm @AtlantiaKing
+- 👀 I'm interested in Game Development and Game Music Composition
+- 🔭 I’m currently working on a DirectX Rasterizer for a school assignment
+- 🎹 I'm currently composing a random series of game music for an AtlantiaKing Soundtrack Nr. 2
+- 🌱 I’m currently studying Game Development at Digital Arts and Entertainment of Howest
+- 📫 How to reach me: @AtlantiaKing on Twitter or thatproductionhd@gmail.com on e-mail
 
-Here are some ideas to get you started:
+### Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://www.youtube.com/@atlantiaking
+
+https://www.youtube.com/@ThatProductionsHD
