@@ -14,7 +14,7 @@
 [Discord](https://discord.gg/wJ5rXmN)  
 
 ### 🖥️ Portfolio!  
-[Portfolio](https://dekeukelaeresander.wixsite.com/portfolio)  
+[Portfolio](https://sanderdekeukelaere.com)  
 [Itch.io](https://sander-de-keukelaere.itch.io/)
 
 ## 🏆 Trophies!
