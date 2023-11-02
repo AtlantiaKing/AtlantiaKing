@@ -22,3 +22,4 @@
 
 ## 📈 Stats!
 [![AtlantiaKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=atlantiaking&count_private=true&show_icons=true&theme=dark&bg_color=0D1117&border_color=30363D)](https://github.com/atlantiaking)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AtlantiaKing&theme=dark&hide_border=true)](https://git.io/streak-stats)
